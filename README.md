@@ -4,9 +4,6 @@
 
 Каждый новый справочник является расширением текущего модуля.
 
-## Скриншот
-<img src="https://github.com/gearmagicru/gm-be-rss_feeds/blob/master/assets/help/grid.png?raw=true">
-
 ## Установка
 
 Для добавления модуля в ваш проект, вы можете просто выполнить команду ниже:
