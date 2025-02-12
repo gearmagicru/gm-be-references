@@ -1,0 +1,32 @@
+{
+    "name": "gearmagicru/gm-be-references",
+    "description": "Control panel module \"References\"",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "GM Panel",
+        "module",
+        "references"
+    ],
+    "homepage": "https://apps.gearmagic.ru/component/gm-be-references",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.be.references",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
