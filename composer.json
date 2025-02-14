@@ -1,12 +1,9 @@
 {
     "name": "gearmagicru/gm-be-references",
-    "description": "Control panel module \"References\"",
+    "description": "Control Panel module \"References\"",
     "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "module",
-        "references"
+        "GearMagic", "GM Panel", "GM Component", "GM Module"
+        "module", "reference"
     ],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-references",
     "type": "component",
