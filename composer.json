@@ -1,7 +1,7 @@
 {
     "name": "gearmagicru/gm-be-references",
     "description": "Control Panel module \"References\"",
-    "keywords": ["gearmagic", "GM Panel", "GM Component", "GM Module", "module", "reference"],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "reference"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-references",
     "type": "component",
     "license": "MIT",
