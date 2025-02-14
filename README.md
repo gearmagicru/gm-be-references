@@ -10,7 +10,7 @@
 [![Source Code](https://img.shields.io/badge/source-gearmagicru/gm--be--references-blue.svg)](https://github.com/gearmagicru/gm-be-references)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/gearmagicru/gm-be-references/blob/master/LICENSE)
 ![Component type: module](https://img.shields.io/badge/component%20type-module-blue.svg)
-![Component ID: ?](https://img.shields.io/badge/component%id-gm.be.references-blue.svg)
+![Component ID: ?](https://img.shields.io/badge/component%20id-gm.be.references-green.svg)
 ![php 8.2+](https://img.shields.io/badge/php-min%208.2-red.svg)
 
 ## Установка
